@@ -1,4 +1,4 @@
-# llama
+# 🦙 llama 🦙
 ## A repository for the foundation day - Large Language Models slides and tutorials.
 📄 **Presentation** 
 Natural Language Processing with Llama2
